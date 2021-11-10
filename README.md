@@ -1,6 +1,12 @@
 # Week1-2-3_Grid_World
 Here is the code for week 1 to week 3 Grid World problem.
 
+# Usage
+Install python 3.8 and jupyter notebook.
+Run the first row to install the dependency
+Change the second row of code to change the shape of the gird word and reward positions.
+Run the code by order.
+
 # Read me
 We write codes to plooting maps/trajectories/valurs/actions and solving VI, PI in HW1_2. Details of the function description are in the code file and some working details are shown in readme.pdf.
 
